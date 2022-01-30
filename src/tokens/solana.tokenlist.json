@@ -94840,6 +94840,18 @@
         "twitter": "https://twitter.com/outstandaedu",
         "website": "http://www.checkoin.com"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "J6kjzdUYiSGuVb12NdyrRHAuGXJdW7m8XR6gTNeBpTCp",
+      "symbol": "dce",
+      "name": "Opacoin",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/Hugo297/Crypto/main/Crypto2-3.png
+      ",
+      "tags": [
+        "social-token"
+      ]
     }
   ],
   "version": {
